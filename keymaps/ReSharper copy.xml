@@ -1,0 +1,6 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="GotoBookmark7" />
+  <action id="Macro.Toggle Comment without Line Break">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+</keymap>

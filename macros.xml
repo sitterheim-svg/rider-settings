@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Toggle Comment without Line Break">
+      <action id="CommentByLineComment" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>
