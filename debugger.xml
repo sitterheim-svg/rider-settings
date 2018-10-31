@@ -3,18 +3,15 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
