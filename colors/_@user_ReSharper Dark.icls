@@ -4,7 +4,7 @@
     <property name="created">2018-10-23T12:17:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-10-23T12:31:20</property>
+    <property name="modified">2018-11-21T08:57:19</property>
     <property name="originalScheme">ReSharper Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -22,15 +22,37 @@
         <option name="FOREGROUND" value="eee979" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="add8e6" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="969696" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eee9a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="add8e6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="eee979" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="add8e6" />
       </value>
     </option>
   </attributes>
