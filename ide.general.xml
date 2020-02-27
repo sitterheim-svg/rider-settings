@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="1" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
@@ -21,7 +22,6 @@
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
   </component>
